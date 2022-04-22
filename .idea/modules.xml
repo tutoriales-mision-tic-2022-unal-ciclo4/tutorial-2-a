@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Tutorial-Mision-TIC/.idea/Tutorial-Mision-TIC.iml" filepath="$PROJECT_DIR$/../Tutorial-Mision-TIC/.idea/Tutorial-Mision-TIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tutorial-Pruebas-Python-Mongo.iml" filepath="$PROJECT_DIR$/.idea/Tutorial-Pruebas-Python-Mongo.iml" />
+    </modules>
+  </component>
+</project>
